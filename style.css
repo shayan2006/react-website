@@ -1,0 +1,22 @@
+h1{
+    color:blue
+}
+
+h2{
+    color:palevioletred
+}
+.header{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+.Codes{
+    background-color: paleturquoise;
+    display: flex;
+    flex-direction: column;
+}
+.Styling{
+     background-color: lightskyblue;
+     display: flex;
+     flex-direction: column;
+}
